@@ -1,0 +1,8 @@
+[
+{
+  "semantic" : "at-least",
+  "timeout": 1000,
+  "broker_port": "1234",
+  "producer_port": "1233"
+}
+]
